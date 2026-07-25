@@ -1,1 +1,2 @@
-print("Hey,Welcome here!")
+str="Hey,Welcome here!"
+print(str)
