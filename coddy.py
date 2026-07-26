@@ -1,2 +1,1 @@
-str="Hey,Welcome here!"
-print(str)
+print(1+1)
