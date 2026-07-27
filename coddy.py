@@ -1,1 +1,2 @@
-print(1+1)
+a=input("Enter your name ")
+print(a)
