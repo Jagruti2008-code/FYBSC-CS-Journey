@@ -1,2 +1,2 @@
-a="Hello"
+a<-c("apple","mango")
 print(a)
