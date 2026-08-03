@@ -1,2 +1,2 @@
-a=input("Enter your name ")
-print(a)
+eld="Welcome to ELD world"
+print(eld + '!')
